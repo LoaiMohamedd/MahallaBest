@@ -1,0 +1,114 @@
+header {
+  background-image:url(../imgs/the-walking-dead_bde4_2880x1800.jpg);
+  background-position: center center;
+  background-size: cover;
+}
+.sec2 .btn{
+  width: 100%;
+}
+.sec22 h6{
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+/* Our Work */
+.services .item {
+  padding: 50px 20px;
+  background: #fff;
+}
+/* .btn a {
+  width: 100%;
+} */
+
+/* .sec22 .btn a button{
+  width: 80%;
+} */
+.sec22 .imgg{
+  width: 95%;
+}
+/* sssssss */
+.numbers .icon {
+  font-size: 30px;
+  display: block;
+  margin-bottom: 15px;
+}
+.numbers h3 {
+  font-weight: 900;
+  margin-bottom: 15px;
+}
+.numbers p {
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+/* Contact */
+.container .contact-card .text-1 h2 {
+  font-size: 18px;
+}
+.container .contact-card .text-1 p {
+  color: #768384;
+  font-weight: 450;
+}
+.container .contact-card .icon {
+  font-size: 1.5rem;
+}
+.container .contact-card .icon i {
+  border: 10px solid #f7f7f7;
+  background-color: #f7f7f7;
+  border-radius: 50%;
+  padding: 15px;
+  transition: 0.5s;
+}
+.container .sec2:hover .icon i {
+  border-color: black;
+  color: white;
+  background-color: black;
+}
+.contact .container .contact-name .form-group {
+  width: 100%;
+  height: 40px;
+  border: none;
+  padding: 10px;
+  background-color: #f7f7f7;
+}
+.contact .container .contact-name .form-group:focus {
+  outline: none;
+}
+.contact .btn-contact {
+  background-color: black;
+  color: white;
+  transition: 0.5s;
+}
+.contact .btn-contact:hover {
+  background-color: white;
+  color: black;
+}
+
+/* Footer */
+.footer-area {
+  background: #151616 none repeat scroll 0 0;
+  padding: 1% ;
+  text-align: center;
+  
+}
+.copy-right {
+  color: #ffffff;
+  margin: 0;
+}
+.copy-right a {
+  color: #baff30;
+  text-decoration: none;
+  cursor: pointer;
+}
+.footer-social-icon li {
+  display: inline-block;
+}
+.footer-social-icon li a {
+  color: #ffffff;
+  display: block;
+  height: 40px;
+  font-size: 18px;
+  padding: 0 10px;
+}
+.footer-social-icon li a:hover {
+  color: #f5f5f5;
+  transform: scale(1.2);
+}
